@@ -42,8 +42,6 @@ Este repositório é pessoal e documenta meu aprendizado. Sinta-se à vontade pa
 **Iago Talamoni**
 
 - GitHub: [@iagotalamoni](https://github.com/iagotalamoni)
-- LinkedIn: [Iago Talamoni](https://linkedin.com/in/iagotalamoni)
+- LinkedIn: [Iago Talamoni](https://www.linkedin.com/in/iago-talamoni/)
 
 ---
-
-⭐ **Se este repositório te ajudou de alguma forma, considere dar uma estrela!**
